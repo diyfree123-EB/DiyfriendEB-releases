@@ -1,8 +1,8 @@
-﻿{
-    "version":  "0.1.8",
-    "sha256":  "3685bd30de331af799b862d7dc6478e4362f441fd2f48d25838527750f80d705",
-    "notes":  "DiyfriendEB 0.1.8",
-    "filename":  "DiyfriendEB-0.1.8-setup.exe",
-    "released":  "2026-08-06",
-    "url":  "https://github.com/diyfree123-EB/DiyfriendEB-releases/releases/download/v0.1.8/DiyfriendEB-0.1.8-setup.exe"
+{
+    "version":  "0.1.9",
+    "sha256":  "30accb6b71d616f08bf3220bf19950136087e68205ae21f842805f7b04372718",
+    "notes":  "DiyfriendEB 0.1.9",
+    "filename":  "DiyfriendEB-0.1.9-setup.exe",
+    "released":  "2026-08-07",
+    "url":  "https://github.com/diyfree123-EB/DiyfriendEB-releases/releases/download/v0.1.9/DiyfriendEB-0.1.9-setup.exe"
 }
